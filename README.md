@@ -6,7 +6,8 @@
 `mkdir -p build && cd build && cmake .. && make`
 
 ## 使用
-```
+```shell
 cd [PSOController | SQPController]
 [./PSOController | ./SQPController] <port number>
 ```
+
